@@ -1,0 +1,12 @@
+name: nyc-taxi
+channels:
+    - https://conda.anaconda.org/menpo
+dependencies:
+    - python==3.5
+    - numpy
+    - matplotlib
+    - scikit-learn
+    - jupyter
+    - tensorflow
+    - keras
+    - pandas
