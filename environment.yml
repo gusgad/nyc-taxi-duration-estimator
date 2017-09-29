@@ -5,6 +5,7 @@ dependencies:
     - python==3.5
     - numpy
     - matplotlib
+    - seaborn
     - scikit-learn
     - jupyter
     - tensorflow
