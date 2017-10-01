@@ -1,6 +1,6 @@
 # NYC Taxi trip duration estimator
 
-![bg](https://kaggle2.blob.core.windows.net/competitions/kaggle/6960/logos/header.png "NYC taxi estimator")
+![New York taxi](https://newyorkmonamour.fr/wp-content/uploads/2016/10/taxi-jaune-a-new-york.jpg "NYC taxi estimator")
 
 * [Original competition link](https://www.kaggle.com/c/nyc-taxi-trip-duration)
 * [Dataset to download](https://www.kaggle.com/c/nyc-taxi-trip-duration/data)
