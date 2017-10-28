@@ -11,4 +11,3 @@ dependencies:
     - tensorflow
     - keras
     - pandas
-    - xgboost
